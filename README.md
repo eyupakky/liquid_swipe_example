@@ -24,11 +24,6 @@
 </p>
 
 <p align="center">
-  This repository contains the <strong>Liquid Swipe Flutter</strong> source code.
-  Liquid swipe is the revealing clipper to bring off amazing liquid like swipe to stacked Container/Widgets and inspired by <a href="https://github.com/Cuberto/liquid-swipe"> Cuberto's liquid swipe</a> and <a href="https://github.com/aagarwal1012/IntroViews-Flutter">IntroViews</a>.
-</p>
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/iamSahdeep/liquid_swipe_flutter/master/assets/example.gif" width="310" height="640">
 <img src="https://raw.githubusercontent.com/iamSahdeep/liquid_swipe_flutter/master/assets/another.gif" width="310" height="640">
 </p>
